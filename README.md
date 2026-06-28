@@ -1,6 +1,8 @@
 # stock-price-prediction
 this is a project to predict stock price
 
+Run Gitbash as adminstrator
+
 python -m venv venv
 
 venv/Scripts/activate
