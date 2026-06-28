@@ -2,7 +2,8 @@
 this is a project to predict stock price
 
 python -m venv venv
-venv\Scripts\activate
+
+venv/Scripts/activate
 
 pip install -r requirements.txt
 
